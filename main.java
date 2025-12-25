@@ -15,7 +15,7 @@ public class WeatherAppGUI extends JFrame {
     private JButton fetchButton;
     private JLabel tempLabel, feelsLabel, descLabel, humidityLabel, windLabel, pressureLabel, cityLabel, errorLabel;
     private JPanel weatherPanel;
-    private final String apiKey = "fbe6431e3b3f525b57d33985e95f1e81";
+    private final String apiKey = "";
 
     public WeatherAppGUI() {
         setTitle("Weather App - Enhanced");
